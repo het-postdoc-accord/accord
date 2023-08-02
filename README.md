@@ -11,7 +11,7 @@ ment, please email het.postdoc.deadline [at] gmail [dot] com with your name and 
 the research group you represent.
 
 
-### Terms:
+## Terms:
 
 Signatories of this accord hereby agree to the following:
 
