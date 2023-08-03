@@ -2,12 +2,9 @@
 
 Since 2007, the high-energy physics theory community has adopted an [agreement](http://insti.physics.sunysb.edu/itp/postdoc-agreement.html) in which institutions have pledged to set a common postdoc acceptance deadline. This agreement has been critical for establishing a standard of equity and fairness in hiring and recruiting practices, allowing several generations of postdocs to make life and career decisions with the maximum amount of information at their disposal.
 
-Any fixed date for a common deadline is a compromise between advantages and disad-
-vantages. A broadly distributed survey, reported in [this arXiv submission](https://arxiv.org/abs/2307.02683), shows that the
-community now favors a substantially later date than previously agreed upon. This agree-
-ment therefore amends the original agreement, changing the common acceptance deadline
-from January 7th to February 15th. If your research group wishes to affirm this new agree-
-ment, please email het.postdoc.deadline [at] gmail [dot] com with your name and that of
+Any fixed date for a common deadline is a compromise between advantages and disadvantages. A broadly distributed survey, reported in [this arXiv submission](https://arxiv.org/abs/2307.02683), shows that the
+community now favors a substantially later date than previously agreed upon. This accord therefore amends the original agreement, changing the common acceptance deadline
+from January 7th to February 15th. If your research group wishes to affirm this new accord, please email het.postdoc.deadline [at] gmail [dot] com with your name and that of
 the research group you represent.
 
 
@@ -30,7 +27,7 @@ signed on to this new accord.
 exceeds the number of signatories of the previous accord.
 <br/><br/>Moreover, for the accord to apply to the 2023-2024 hiring cycle, both criteria must
 be met on or before **September 30th 2023**. If the criteria are instead met between
-October 1th 2023 and June 30th 2024, this accord will go in effect for the 2025 hiring
+October 1th 2023 and June 30th 2024, this accord will go in effect for the 2024-2025 hiring
 cycle. If the criteria are not satisfied before June 30th 2024, this accord and all its
 signatures are to be considered null and void. The existing January 7th accord will
 remain in force until the new accord is ratified.
