@@ -50,3 +50,4 @@ institutional fellowships.
 * **Nikhef Theory Group** --- Robert Fleischer
 * **University of Oregon** --- Graham Kribs
 * **IAS** --- Juan Maldacena
+* **University of Washington** --- Laurence G. Yaffe
