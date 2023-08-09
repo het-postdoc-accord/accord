@@ -43,9 +43,9 @@ institutional fellowships.
 
 # Signatories:
 
-KITP --- Lars Bildsten
-Laval University Theory Group --- Jean-François Fortin
-University of Maryland (UMD) particle theory group --- Raman Sundrum
-Cambridge University theoretical particle physics group --- Ben Allanach
-Nikhef Theory Group --- Robert Fleischer
-University of Oregon --- Graham Kribs
+KITP --- Lars Bildsten\
+Laval University Theory Group --- Jean-François Fortin\
+University of Maryland (UMD) particle theory group --- Raman Sundrum\
+Cambridge University theoretical particle physics group --- Ben Allanach\
+Nikhef Theory Group --- Robert Fleischer\
+University of Oregon --- Graham Kribs\
