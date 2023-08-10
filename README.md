@@ -58,3 +58,5 @@ institutional fellowships.
 13. **Jozef Stefan Institute** --- Jernej Fesel-Kamenik
 14. **University of Ljubljana** --- Jernej Fesel-Kamenik
 15. **Johns Hopkins Theory Group** --- Surjeet Rajendran
+16. **University of California Irvine** --- Tim Tait
+17. **Brandeis High Energy Theory Group** --- Matthew Headrick
