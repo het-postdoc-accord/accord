@@ -60,3 +60,5 @@ institutional fellowships.
 15. **Johns Hopkins Theory Group** --- Surjeet Rajendran
 16. **University of California Irvine** --- Tim Tait
 17. **Brandeis High Energy Theory Group** --- Matthew Headrick
+18. **University of Hawaii Theory Group** --- Jason Kumar
+19. **Monash University** --- Ulrik Egede
