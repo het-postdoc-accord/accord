@@ -43,11 +43,17 @@ institutional fellowships.
 
 # Signatories:
 
-* **KITP** --- Lars Bildsten
-* **Laval University Theory Group** --- Jean-François Fortin
-* **University of Maryland particle theory group** --- Raman Sundrum
-* **Cambridge University theoretical particle physics group** --- Ben Allanach
-* **Nikhef Theory Group** --- Robert Fleischer
-* **University of Oregon** --- Graham Kribs
-* **IAS** --- Juan Maldacena
-* **University of Washington** --- Laurence G. Yaffe
+1. **KITP** --- Lars Bildsten
+2. **Laval University Theory Group** --- Jean-François Fortin
+3. **University of Maryland particle theory group** --- Raman Sundrum
+4. **Cambridge University theoretical particle physics group** --- Ben Allanach
+5. **Nikhef Theory Group** --- Robert Fleischer
+6. **University of Oregon** --- Graham Kribs
+7. **IAS** --- Juan Maldacena
+8. **University of Washington** --- Laurence G. Yaffe
+9. **Fermilab Theory Division** --- Marcela Carena
+10. **SLAC Particle Theory Group** --- Tom Rizzo
+11. **University of Melbourne, Theoretical Particle Physics Group** --- Nicole Bell
+12. **The Weizmann Institute** --- Ofer Aharony
+13. **Jozef Stefan Institute** --- Jernej Fesel-Kamenik
+14. **University of Ljubljana** --- Jernej Fesel-Kamenik
