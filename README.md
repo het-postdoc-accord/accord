@@ -57,3 +57,4 @@ institutional fellowships.
 12. **The Weizmann Institute** --- Ofer Aharony
 13. **Jozef Stefan Institute** --- Jernej Fesel-Kamenik
 14. **University of Ljubljana** --- Jernej Fesel-Kamenik
+15. **Johns Hopkins Theory Group** --- Surjeet Rajendran
