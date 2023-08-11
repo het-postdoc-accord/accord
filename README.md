@@ -62,3 +62,8 @@ institutional fellowships.
 17. **Brandeis High Energy Theory Group** --- Matthew Headrick
 18. **University of Hawaii Theory Group** --- Jason Kumar
 19. **Monash University** --- Ulrik Egede
+20. **University of Toronto THEP** --- David Curtin
+21. **Cornell University Theory Group (Pheno)** --- Csaba Csaki 
+22. **Cornell University Theory Group (Formal)** --- Liam McAllister
+23. **University of Utah HET Group** --- Paolo Gondolo
+24. **Queen's University** --- Joseph Bramante
