@@ -63,7 +63,7 @@ institutional fellowships.
 18. **University of Hawaii Theory Group** --- Jason Kumar
 19. **Monash University** --- Ulrik Egede
 20. **University of Toronto THEP** --- David Curtin
-21. **Cornell University Theory Group (Pheno)** --- Csaba Csaki 
-22. **Cornell University Theory Group (Formal)** --- Liam McAllister
-23. **University of Utah HET Group** --- Paolo Gondolo
-24. **Queen's University** --- Joseph Bramante
+21. **Cornell University Theory Group** --- Csaba Csaki and Liam McAllister
+22. **University of Utah HET Group** --- Paolo Gondolo
+23. **Queen's University** --- Joseph Bramante
+24. **Henan University, P. R. China, Mathematical Physics and High-Energy Theory group at the Institute of Contemporary Mathematics** --- Sven Bjarke Gudnason
