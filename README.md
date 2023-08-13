@@ -67,3 +67,4 @@ institutional fellowships.
 22. **University of Utah HET Group** --- Paolo Gondolo
 23. **Queen's University** --- Joseph Bramante
 24. **Henan University, P. R. China, Mathematical Physics and High-Energy Theory group at the Institute of Contemporary Mathematics** --- Sven Bjarke Gudnason
+25. **University of Cincinnati theory group** --- Jure Zapan
