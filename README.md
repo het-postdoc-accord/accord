@@ -68,3 +68,8 @@ institutional fellowships.
 23. **Queen's University** --- Joseph Bramante
 24. **Henan University, P. R. China, Mathematical Physics and High-Energy Theory group at the Institute of Contemporary Mathematics** --- Sven Bjarke Gudnason
 25. **University of Cincinnati theory group** --- Jure Zapan
+26. **Nordita, Stockholm Theoretical High Energy Physics Group** --- Niels Obers
+27. **University of New South Wales** --- Michael Schmidt
+28. **University of Illinois Urbana-Champaign High Energy Theory Group** --- Aida X. El-Khadra
+29. **Institute for Theoretical Physics at KU Leuven** --- Thomas Hertog
+30. **CPHT Ecole Polytechnique** --- Balt van Rees
