@@ -43,13 +43,13 @@ institutional fellowships.
 
 # Signatories:
 
-1. **KITP** --- Lars Bildsten
+1. **Kavli Institute for Theoretical Physics (KITP)** --- Lars Bildsten
 2. **Laval University Theory Group** --- Jean-François Fortin
 3. **University of Maryland particle theory group** --- Raman Sundrum
 4. **Cambridge University theoretical particle physics group** --- Ben Allanach
 5. **Nikhef Theory Group** --- Robert Fleischer
 6. **University of Oregon** --- Graham Kribs
-7. **IAS** --- Juan Maldacena
+7. **Institute for Advanced Study (IAS)** --- Juan Maldacena
 8. **University of Washington** --- Laurence G. Yaffe
 9. **Fermilab Theory Division** --- Marcela Carena
 10. **SLAC Particle Theory Group** --- Tom Rizzo
@@ -67,7 +67,7 @@ institutional fellowships.
 22. **University of Utah HET Group** --- Paolo Gondolo
 23. **Queen's University** --- Joseph Bramante
 24. **Henan University, P. R. China, Mathematical Physics and High-Energy Theory group at the Institute of Contemporary Mathematics** --- Sven Bjarke Gudnason
-25. **University of Cincinnati theory group** --- Jure Zapan
+25. **University of Cincinnati theory group** --- Jure Zupan
 26. **Nordita, Stockholm Theoretical High Energy Physics Group** --- Niels Obers
 27. **University of New South Wales** --- Michael Schmidt
 28. **University of Illinois Urbana-Champaign High Energy Theory Group** --- Aida X. El-Khadra
@@ -75,3 +75,4 @@ institutional fellowships.
 30. **CPHT Ecole Polytechnique** --- Balt van Rees
 31. **University of Chicago Particle Theory Group** --- Jeffrey Harvey
 32. **Carleton University Theory Group** --- Thomas Gregoire
+33. **University of Wisconsin, Madison** -- Lisa Everett
