@@ -74,3 +74,4 @@ institutional fellowships.
 29. **Institute for Theoretical Physics at KU Leuven** --- Thomas Hertog
 30. **CPHT Ecole Polytechnique** --- Balt van Rees
 31. **University of Chicago Particle Theory Group** --- Jeffrey Harvey
+32. **Carleton University Theory Group** --- Thomas Gregoire
