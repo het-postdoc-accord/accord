@@ -73,3 +73,4 @@ institutional fellowships.
 28. **University of Illinois Urbana-Champaign High Energy Theory Group** --- Aida X. El-Khadra
 29. **Institute for Theoretical Physics at KU Leuven** --- Thomas Hertog
 30. **CPHT Ecole Polytechnique** --- Balt van Rees
+31. **University of Chicago Particle Theory Group** --- Jeffrey Harvey
