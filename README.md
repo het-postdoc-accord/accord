@@ -42,7 +42,7 @@ the control of individual research groups, such as e.g. the Marie Curie and othe
 institutional fellowships.
 
 # Signatories:
-
+<sub><sup>*Last update: August 14, 2023*</sup></sub>
 1. **Kavli Institute for Theoretical Physics (KITP)** --- Lars Bildsten
 2. **Laval University Theory Group** --- Jean-François Fortin
 3. **University of Maryland particle theory group** --- Raman Sundrum
