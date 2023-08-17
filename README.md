@@ -1,4 +1,4 @@
-## Contents <a name="top"></a>
+# Contents <a name="top"></a>
 1. [Accord](#accord)
 2. [Signatories](#signatories)
 3. [Frequently Asked Questions](#faq)
@@ -89,11 +89,16 @@ institutional fellowships.
 38. **University of New Hampshire HET group** -- Chanda Prescod-Weinstein
 39. **CERN Theory Department** --	Gian Giudice
 40. **Syracuse University** --	Simon Catterall, Jay Hubisz, Jack Laiho, Scott Watson
+41. **Argonne National Laboratory, HEP Theory Group** --	Carlos E.M. Wagner
+42. **McGill University** -- Jim Cline
+43. **University of Victoria Theory Group** --	Adam Ritz
 
 [back to top](#top)
+
 # FAQ <a name="faq"></a>
 <details>
 <summary>click to expand</summary>
+  
 Coming soon.
 
 </details>
