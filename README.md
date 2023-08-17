@@ -84,6 +84,7 @@ institutional fellowships.
 33. **University of Wisconsin, Madison** -- Lisa Everett
 34. **Durham Maths CPT** -- Simon Ross
 35. **UC San Diego High-Energy Theory Group** -- Tongyan Lin
+36. **Carnegie Mellon University high energy theory group** -- Rachel A. Rosen
 </details>
 
 [back to top](#top)
