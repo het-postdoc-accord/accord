@@ -48,7 +48,7 @@ institutional fellowships.
 [back to top](#top)
 
 # Signatories: <a name="signatories"></a>
-<sub><sup>*Last update: August 16, 2023*</sup></sub>
+<sub><sup>*Last update: August 17, 2023*</sup></sub>
 1. **Kavli Institute for Theoretical Physics (KITP)** --- Lars Bildsten
 2. **Laval University Theory Group** --- Jean-François Fortin
 3. **University of Maryland particle theory group** --- Raman Sundrum
@@ -85,6 +85,10 @@ institutional fellowships.
 34. **Durham Maths CPT** -- Simon Ross
 35. **UC San Diego High-Energy Theory Group** -- Tongyan Lin
 36. **Carnegie Mellon University high energy theory group** -- Rachel A. Rosen
+37. **Center for Computational Astrophysics, Flatiron Institute**	-- Julianne Dalcanton
+38. **University of New Hampshire HET group** -- Chanda Prescod-Weinstein
+39. **CERN Theory Department** --	Gian Giudice
+40. **Syracuse University** --	Simon Catterall, Jay Hubisz, Jack Laiho, Scott Watson
 </details>
 
 [back to top](#top)
