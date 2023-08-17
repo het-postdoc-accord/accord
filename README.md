@@ -89,7 +89,6 @@ institutional fellowships.
 38. **University of New Hampshire HET group** -- Chanda Prescod-Weinstein
 39. **CERN Theory Department** --	Gian Giudice
 40. **Syracuse University** --	Simon Catterall, Jay Hubisz, Jack Laiho, Scott Watson
-</details>
 
 [back to top](#top)
 # FAQ <a name="faq"></a>
