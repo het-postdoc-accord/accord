@@ -92,6 +92,8 @@ institutional fellowships.
 41. **Argonne National Laboratory, HEP Theory Group** --	Carlos E.M. Wagner
 42. **McGill University** -- Jim Cline
 43. **University of Victoria Theory Group** --	Adam Ritz
+44. **UCLA high energy theory group** --	Thomas Dumitrescu
+45. **King’s College London (Physics) Theoretical Particle Physics and Cosmology Group** – Malcolm Fairbairn
 
 [back to top](#top)
 
