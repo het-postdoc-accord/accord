@@ -123,9 +123,9 @@ The main reason for moving the acceptance deadline away from January 7th is to a
 <details><summary><b>3. Was the survey focused on or dominated by a particular subfield?</b></summary>
 
 Significant effort was made to reach out to all subfields in HET.  588 community members answered, representing a diverse set of subfields, including phenomenology, formal, cosmology and astro, as described in Table 1 of the <a href="https://arxiv.org/abs/2307.02683">arXiv article</a> (note that respondents could select more than one subfield). For example, 179 (30%) of the respondents were in the formal area. This appears to be roughly in line with the relative size of this community when looking at recent faculty hires (see <a href="https://particle.physics.ucdavis.edu/rumor/doku.php?id=statistics">https://particle.physics.ucdavis.edu/rumor/doku.php?id=statistics</a>). 
-
-The <a href="https://arxiv.org/abs/2307.02683">arXiv article</a>encouraged people who hadn’t yet responded to the survey to do so, and we continued collecting responses over the month of July. In addition, the proposal for the new accord was presented at the Strings virtual Town Hall on July 27th 2023, with roughly 200 people in attendance. The slides were made accessible to remaining participants, roughly 1000 people. The additional responses to the survey did not change the overall conclusions, so there was no need to update the analysis posted to our webpage. 
-
+<br>
+The <a href="https://arxiv.org/abs/2307.02683">arXiv article</a> encouraged people who hadn’t yet responded to the survey to do so, and we continued collecting responses over the month of July. In addition, the proposal for the new accord was presented at the Strings virtual Town Hall on July 27th 2023, with roughly 200 people in attendance. The slides were made accessible to remaining participants, roughly 1000 people. The additional responses to the survey did not change the overall conclusions, so there was no need to update the analysis posted to our webpage. 
+<br>
 Furthermore, placing various cuts on the data, all subfields stated that January 7th was disliked as the choice of deadline, with similar proportions. For example, in every sector of the community, January 7th was only favored by 11% of the community or less. While the numbers did vary, February 15th was the most favored date among all subfields. The preferences of the respondents who identified themselves as formal aligned with those of the rest of the sample. The results were thus not dominated by any particular subfield. 
 </details>
 
@@ -137,7 +137,7 @@ February 15th was the most preferred option by a wide margin, while January 30th
 <details><summary><b>5. Would moving the common deadline later lead to logistical challenges?</b></summary>
   
 The astronomy community provides evidence that a later postdoc deadline of February 15th can work. In this community, most postdoc offers are made in January and the response deadline is not earlier than February 15th. The American Astronomical Society’s (AAS) policy, adopted in 1988 and later reaffirmed in 2003 and 2006, can be found <a href="https://aas.org/about/governance/society-resolutions#postdoc">here</a>. Similarly, the mathematics community reached a similar agreement with a deadline of February 6th, which can be found <a href="https://www.ams.org/profession/employment-services/deadline-coordination/deadline-coordination">here</a>. 
-
+<br>
 It is however important to be cognizant of how a later response deadline can affect applicants who are in complicated visa situations, need to arrange child-care, and/or must coordinate dual careers. Were the acceptance deadline to change to February 15th, institutions are encouraged to be mindful of these challenges and to be as flexible as possible with starting dates for those who face the challenges listed above. Similarly, institutions from which the candidates are departing are encouraged to help ensure that there are no large gaps in employment whenever possible.
 </details>
 
@@ -174,9 +174,9 @@ The best practices in any field can evolve with time and can be adjusted. The ef
 <details><summary><b>12. So when will offers be made?</b></summary>
   
 A fixed deadline for making offers is challenging to implement across institutions given how varied administrative rules are between schools — and, moreso, countries. This is why we explicitly did not include a mention of this in the new February 15th accord. Recall, that the original January 7th accord that was ratified in 2007 also had no such statement. 
-
+<br>
 The important decision of when offers are made is left to individual institutions and we trust that each will make a decision that works best for them and the postdoc candidates. If the February 15th accord is ratified, it will likely take a couple of years for individual institutions—and the community as a whole—to settle on the most optimal timeline. As this process unfolds, it will be great if institutions continue talking amongst themselves and coordinating to find the best compromises. For example, institutions can agree to make offers in early-to-mid Jan if that is what the majority feels is best. And if this is something you’d like to see, we urge you to petition for it amongst your colleagues. 
-
+<br>
 Looking at the data from the HET postdoc rumor mill (published in our <a href="https://arxiv.org/abs/2307.02683">arXiv article</a>), we found that most first-round offers decide before the deadline (currently January 7th) quickly, typically within a couple of weeks (see Figs. 1 and 2 here). Therefore, under the current system, we find no evidence that offers are being “hoarded” by a small number of applicants, holding up the process for second-round offers. If the February 15th accord is ratified, hopefully this would continue to be the case and we would see offers being accepted/declined over the course of January, with only those applicants who have good reason to hold off on a decision (say, because they are waiting to hear back from a fellowship with a later offer date) waiting until February 15th to respond.  While it is difficult to predict in advance, this may well lead to a reduced crunch of offers being declined, offered and accepted in the days and hours leading up to the deadline.  
 </details>
 
