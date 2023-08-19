@@ -48,7 +48,9 @@ institutional fellowships.
 [back to top](#top)
 
 # Signatories: <a name="signatories"></a>
-<sub><sup>*Last update: August 17, 2023*</sup></sub>
+Institutions along with communicating representative
+
+<sub><sup>*Last update: August 18, 2023*</sup></sub>
 1. **Kavli Institute for Theoretical Physics (KITP)** --- Lars Bildsten
 2. **Laval University Theory Group** --- Jean-François Fortin
 3. **University of Maryland particle theory group** --- Raman Sundrum
@@ -94,6 +96,14 @@ institutional fellowships.
 43. **University of Victoria Theory Group** --	Adam Ritz
 44. **UCLA high energy theory group** --	Thomas Dumitrescu
 45. **King’s College London (Physics) Theoretical Particle Physics and Cosmology Group** – Malcolm Fairbairn
+46. **University of Oviedo, Spain** --	Yolanda Lozano
+47. **THEP, Johannes Gutenberg University in Mainz** --	Pedro Schwaller
+48. **Theoretical Physics, Physikalisches Institut, University of Bonn** --	Herbi Dreiner
+49. **Theory Group, DESY, Hamburg Site** --	Christoph Grojean
+50. **Northwestern University** -- André de Gouvêa
+51. **University of Colorado High Energy Theory Group** --	Oliver DeWolfe
+52. **Ohio State University, High Energy Theory group** --	Eric Braaten
+53. **University of Oxford, Mathematical Physics Group** -- Luis Fernando Alday
 
 [back to top](#top)
 
