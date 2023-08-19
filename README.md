@@ -158,7 +158,7 @@ Our aim is to let groups consider the new deadline and its implementation at the
 
 <details><summary><b>9. Can a signature be withdrawn?</b></summary>
 
-Yes, institutions can withdraw their signatures at any time by e-mailing <a href="mailto:het.postdoc.deadline@gmail.com">het.postdoc.deadline-at-gmail.com</a>. If a signature is withdrawn before the stated deadline of September 30th 2023 it will not count towards the ratification decision.  
+Yes, institutions can withdraw their signatures at any time by e-mailing <a href="mailto:het.postdoc.deadline@gmail.com">het.postdoc.deadline [at] gmail [dot] com</a>. If a signature is withdrawn before the stated deadline of September 30th 2023 it will not count towards the ratification decision.  
 </details>
 
 <details><summary><b>10. Is the accord binding?</b></summary>
@@ -204,6 +204,6 @@ We understand that many groups will need or want to publish their postdoc ads be
 </details>
 
 <br><br>
-Further questions? Please let us know at [het.postdoc.deadline-at-gmail.com](mailto:het.postdoc.deadline@gmail.com) if we can clarify any further concerns.
+Further questions? Please let us know at [het.postdoc.deadline [at] gmail [dot] com](mailto:het.postdoc.deadline@gmail.com) if we can clarify any further concerns.
 
 [back to top](#top)
