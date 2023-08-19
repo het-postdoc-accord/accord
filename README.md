@@ -108,7 +108,7 @@ Institutions along with communicating representative
 [back to top](#top)
 
 # FAQ <a name="faq"></a>
-Below, we address some questions that were raised to us either during the survey period or, more recently, in response to the new February 15th accord.
+Below, we address some questions that were raised to us either during the survey period or, more recently, in response to the new February 15th accord. Please click on the question to see the answer. 
 
 <details><summary>1. What is the history behind the January 7th response deadline in HET?</summary>
 
