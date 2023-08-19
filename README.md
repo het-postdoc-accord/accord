@@ -186,19 +186,21 @@ We understand that many groups will need or want to publish their postdoc ads be
 </details>
 
 <details><summary><b>14. What are the timelines for the multidisciplinary postdoctoral fellowships?</b></summary>
-Berkeley Miller Fellowship: Acceptance deadline is typically the third week of January
+  <ul>
+<li>Berkeley Miller Fellowship: Acceptance deadline is typically the third week of January</li>
+    
+<li>Harvard Society of Junior Fellows: Acceptance deadline is the end of January</li>
 
-Harvard Society of Junior Fellows: Acceptance deadline is the end of January
+<li>Marie Skłodowska-Curie Actions: Offers made ~mid-late February</li>
 
-Marie Skłodowska-Curie Actions: Offers made ~mid-late February
+<li>MIT Pappalardo Fellowship: Acceptance deadline is currently Jan 7 to be in-line with the current HET deadline.</li>
 
-MIT Pappalardo Fellowship: Acceptance deadline is currently Jan 7 to be in-line with the current HET deadline.
+<li>NASA Hubble Fellowship: Offers typically made at the end of Jan/beginning of Feb, with an acceptance deadline of Feb 15</li>
 
-NASA Hubble Fellowship: Offers typically made at the end of Jan/beginning of Feb, with an acceptance deadline of Feb 15
+<li>Princeton Center for Theoretical Science (PCTS) Fellowship: No official acceptance deadline; informal encouragement to respond by early January</li>
 
-Princeton Center for Theoretical Science (PCTS) Fellowship: No official acceptance deadline; informal encouragement to respond by early January
-
-UC Presidential and Chancellor Fellowships: Offers made at the end of February
+<li>UC Presidential and Chancellor Fellowships: Offers made at the end of February</li>
+</ul>
 </details>
 
 <br><br>
