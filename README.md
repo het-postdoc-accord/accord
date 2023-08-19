@@ -168,7 +168,7 @@ Like the January 7th accord, this accord is not a legally binding document, but 
 
 <details><summary><b>11. What about future modifications?</b></summary>
 
-The best practices in any field can evolve with time and can be adjusted. The effects of changing an acceptance deadline is not entirely predictable. After the acceptance deadline change, it may take a few hiring cycles for new rhythms and habits to be worked out.It is our intention to monitor as groups sign on or off from the accord. We therefore intend to conduct a similar survey after three cycles to gauge whether the new accord is working as intended and we will welcome assistance from anyone interested. If there is a prevalent opinion that further change is needed, in either direction, an updated accord can be drafted and ratified at that time.  
+The best practices in any field can evolve with time and can be adjusted. The effects of changing an acceptance deadline is not entirely predictable. After the acceptance deadline change, it may take a few hiring cycles for new rhythms and habits to be worked out. It is our intention to continue to collect possible concerns and to monitor as groups sign on or off from the accord in the first two cycles, and their reasons for doing so. We also intend to conduct a similar survey after three cycles, to gauge whether the new accord is working as intended and we will welcome assistance from anyone interested. A survey may be circulated earlier if a trend of groups signing off developes. If there is a prevalent opinion that further change is needed, in either direction, an updated accord can be drafted and ratified at that time
 <br></details>
 
 <details><summary><b>12. So when will offers be made?</b></summary>
