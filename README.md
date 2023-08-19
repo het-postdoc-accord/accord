@@ -143,7 +143,7 @@ It is however important to be cognizant of how a later response deadline can aff
 
 <details><summary><b>6. Would a later deadline mean that applicants hold onto offers for longer?</b></summary>
   
-It is not clear that this will be the case, as a later response deadline may mean that individual institutions decide to make their offers later as well. The data from the Rumor Mill (kindly provided by Felix Yu), averaged over the last 6 years, indicates that candidates who currently receive an offer before January 7th on average accept within 12 days of receiving their preferred offer (Fig. 1 of the <a href="https://arxiv.org/abs/2307.02683">arXiv article</a>). In general, applicants should be aware that the “best practice” is to not hold onto multiple offers longer than is needed to make their decision.
+It is not clear that this will be the case, as a later response deadline may mean that individual institutions decide to make their offers later as well. The data from the Rumor Mill (kindly provided by Felix Yu), averaged over the last 6 years, indicates that candidates who currently receive an offer before January 1st on average accept within 12 days of receiving their preferred offer (Fig. 1 of the <a href="https://arxiv.org/abs/2307.02683">arXiv article</a>). In general, applicants should be aware that the “best practice” is to not hold onto multiple offers longer than is needed to make their decision.
 <br></details>
 
 <details><summary><b>7. Would extending the response deadline unreasonably extend second and third-round offers for many weeks/months?</b></summary>
