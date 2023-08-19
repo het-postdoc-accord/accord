@@ -9,7 +9,7 @@ Since 2007, the high-energy physics theory community has adopted an [agreement](
 
 Any fixed date for a common deadline is a compromise between advantages and disadvantages. A broadly distributed survey, reported in [this arXiv submission](https://arxiv.org/abs/2307.02683), shows that the
 community now favors a substantially later date than previously agreed upon. This accord therefore amends the original agreement, changing the common acceptance deadline
-from January 7th to February 15th. If your research group wishes to affirm this new accord, please email het.postdoc.deadline [at] gmail [dot] com with your name and that of
+from January 7th to February 15th. If your research group wishes to affirm this new accord, please email [het.postdoc.deadline [at] gmail [dot] com](mailto:het.postdoc.deadline@gmail.com) with your name and that of
 the research group you represent.
 
 ## Terms: <a name="terms"></a>
