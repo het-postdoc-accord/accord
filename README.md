@@ -104,6 +104,7 @@ Institutions along with communicating representative
 51. **University of Colorado High Energy Theory Group** --	Oliver DeWolfe
 52. **Ohio State University, High Energy Theory group** --	Eric Braaten
 53. **University of Oxford, Mathematical Physics Group** -- Luis Fernando Alday
+54. **University of Southampton, String theory and Holography group** --	Kostas Skenderis
 
 [back to top](#top)
 
