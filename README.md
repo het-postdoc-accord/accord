@@ -105,6 +105,10 @@ Institutions along with communicating representative
 52. **Ohio State University, High Energy Theory group** --	Eric Braaten
 53. **University of Oxford, Mathematical Physics Group** -- Luis Fernando Alday
 54. **University of Southampton, String theory and Holography group** --	Kostas Skenderis
+55. **Institut fuer Theoretische Physik, Leibniz Universitaet Hannover** --	Olaf Lechtenfeld
+56. **Swansea University Particle Physics and Cosmology Theory group** --	Gert Aarts
+57. **ETH Zurich** --	Leonardo Senatore, Matthias Gaberdiel
+58. **Technische Universität München, Particle and Astroparticle Theory** --	Martin Beneke
 
 [back to top](#top)
 
