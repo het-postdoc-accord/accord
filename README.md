@@ -50,7 +50,7 @@ institutional fellowships.
 # Signatories: <a name="signatories"></a>
 Institutions along with communicating representative
 
-<sub><sup>*Last update: August 21, 2023*</sup></sub>
+<sub><sup>*Last update: August 22, 2023*</sup></sub>
 1. **Kavli Institute for Theoretical Physics (KITP)** --- Lars Bildsten
 2. **Laval University Theory Group** --- Jean-François Fortin
 3. **University of Maryland particle theory group** --- Raman Sundrum
@@ -109,6 +109,9 @@ Institutions along with communicating representative
 56. **Swansea University Particle Physics and Cosmology Theory group** --	Gert Aarts
 57. **ETH Zurich (Gaberdiel and Senatore groups)** --	Leonardo Senatore, Matthias Gaberdiel
 59. **Technische Universität München, Particle and Astroparticle Theory** --	Martin Beneke
+60. **Karlsruhe Institute of Technology (KIT), Institute for Theoretical Physics** -- Margarete Mühlleitner
+61. **Rice University (Amin and Long Groups)** -- Mustafa A. Amin, Andrew J. Long
+62. **University of Surrey, Mathematical Physics group** -- Alessandro Torrielli
 
 [back to top](#top)
 
