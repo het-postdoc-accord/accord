@@ -107,8 +107,8 @@ Institutions along with communicating representative
 54. **University of Southampton, String theory and Holography group** --	Kostas Skenderis
 55. **Institut fuer Theoretische Physik, Leibniz Universitaet Hannover** --	Olaf Lechtenfeld
 56. **Swansea University Particle Physics and Cosmology Theory group** --	Gert Aarts
-57. **ETH Zurich** --	Leonardo Senatore, Matthias Gaberdiel
-58. **Technische Universität München, Particle and Astroparticle Theory** --	Martin Beneke
+57. **ETH Zurich (Gaberdiel and Senatore groups)** --	Leonardo Senatore, Matthias Gaberdiel
+59. **Technische Universität München, Particle and Astroparticle Theory** --	Martin Beneke
 
 [back to top](#top)
 
