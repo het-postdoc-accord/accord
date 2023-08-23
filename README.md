@@ -113,7 +113,8 @@ Institutions along with communicating representative
 61. **Rice University (Amin and Long Groups)** -- Mustafa A. Amin, Andrew J. Long
 62. **University of Surrey, Mathematical Physics group** -- Alessandro Torrielli
 63. **Wayne State University High Energy Theory Group** -- Gil Paz
-64. **UC Davis (Cheng, Luty, Terning groups)** -- Markus Luty
+64. **UC Davis, Fields, Strings, and Gravity group** -- Mukund Rangamani
+65. **UC Davis (Cheng, Luty, Terning groups)** -- Markus Luty
 
 [back to top](#top)
 
