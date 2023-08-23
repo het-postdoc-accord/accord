@@ -50,7 +50,7 @@ institutional fellowships.
 # Signatories: <a name="signatories"></a>
 Institutions along with communicating representative
 
-<sub><sup>*Last update: August 22, 2023*</sup></sub>
+<sub><sup>*Last update: August 23, 2023*</sup></sub>
 1. **Kavli Institute for Theoretical Physics (KITP)** --- Lars Bildsten
 2. **Laval University Theory Group** --- Jean-François Fortin
 3. **University of Maryland particle theory group** --- Raman Sundrum
@@ -112,6 +112,8 @@ Institutions along with communicating representative
 60. **Karlsruhe Institute of Technology (KIT), Institute for Theoretical Physics** -- Margarete Mühlleitner
 61. **Rice University (Amin and Long Groups)** -- Mustafa A. Amin, Andrew J. Long
 62. **University of Surrey, Mathematical Physics group** -- Alessandro Torrielli
+63. **Wayne State University High Energy Theory Group** -- Gil Paz
+64. **UC Davis (Cheng, Luty, Terning groups)** -- Markus Luty
 
 [back to top](#top)
 
