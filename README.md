@@ -116,6 +116,7 @@ Institutions along with communicating representative
 64. **UC Davis, Fields, Strings, and Gravity group** -- Mukund Rangamani
 65. **UC Davis (Cheng, Luty, Terning groups)** -- Markus Luty
 66. **Los Alamos National Lab HET group** -- Michael Lawrence Graesser
+67. **University of California at Santa Cruz theory group** -- Stefania Gori
 
 [back to top](#top)
 
