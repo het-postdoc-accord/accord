@@ -115,6 +115,7 @@ Institutions along with communicating representative
 63. **Wayne State University High Energy Theory Group** -- Gil Paz
 64. **UC Davis, Fields, Strings, and Gravity group** -- Mukund Rangamani
 65. **UC Davis (Cheng, Luty, Terning groups)** -- Markus Luty
+66. **Los Alamos National Lab HET group** -- Michael Lawrence Graesser
 
 [back to top](#top)
 
@@ -211,6 +212,8 @@ We understand that many groups will need or want to publish their postdoc ads be
 <li>Princeton Center for Theoretical Science (PCTS) Fellowship: No official acceptance deadline; informal encouragement to respond by early January</li>
 
 <li>UC Presidential and Chancellor Fellowships: Offers made at the end of February</li>
+
+<li>UC LANL Distinguished Postdoctoral Fellowships: offers made in mid-December, acceptance deadline in early January</li>
 </ul>
 <br></details>
 
