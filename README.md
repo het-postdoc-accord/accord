@@ -50,7 +50,7 @@ institutional fellowships.
 # Signatories: <a name="signatories"></a>
 Institutions along with communicating representative
 
-<sub><sup>*Last update: August 25, 2023*</sup></sub>
+<sub><sup>*Last update: August 27, 2023*</sup></sub>
 1. **Kavli Institute for Theoretical Physics (KITP)** --- Lars Bildsten
 2. **Laval University Theory Group** --- Jean-François Fortin
 3. **University of Maryland particle theory group** --- Raman Sundrum
@@ -117,11 +117,13 @@ Institutions along with communicating representative
 65. **UC Davis (Cheng, Luty, Terning groups)** -- Markus Luty
 66. **Los Alamos National Lab HET group** -- Michael Lawrence Graesser
 67. **University of California at Santa Cruz theory group** -- Stefania Gori
-68. **University of Kansas High Energy Theory group** --
+68. **University of Kansas High Energy Theory group** -- Ian Lewis
 69. **University of Münster** -- Michael Klasen
 70. **University of Southern California (Gluscevic group)** -- Vera Gluscevic
 71. **University of Nebraska-Lincoln** -- Peisi Huang
 72. **Princeton Particle Phenomenology Group** -- Mariangela Lisanti
+73. **University of Illinois Chicago** -- James Unwin
+74. **High-Energy Theory group, Sapienza University of Rome** -- Roberto Contino
 
 [back to top](#top)
 
