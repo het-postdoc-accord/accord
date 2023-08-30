@@ -124,6 +124,7 @@ Institutions along with communicating representative
 72. **Princeton Particle Phenomenology Group** -- Mariangela Lisanti
 73. **University of Illinois Chicago** -- James Unwin
 74. **High-Energy Theory group, Sapienza University of Rome** -- Roberto Contino
+75. **University of Milano-Bicocca, Milan, Theoretical Physics Group** -- Simone Alioli
 
 [back to top](#top)
 
