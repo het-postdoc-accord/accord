@@ -125,6 +125,12 @@ Institutions along with communicating representative
 73. **University of Illinois Chicago** -- James Unwin
 74. **High-Energy Theory group, Sapienza University of Rome** -- Roberto Contino
 75. **University of Milano-Bicocca, Milan, Theoretical Physics Group** -- Simone Alioli
+76. **Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam, Germany** -- Axel Kleinschmidt
+77. **University of Nottingham (Particle Cosmology Group)** -- Edmund Copeland
+78. **Texas A&M University** -- Kevin Kelly
+79. **Technion particle theory group** -- Yael Shadmi
+80. **Theoretical Particle Physics group, Lund University** -- Leif Lönnblad
+81. **Particle Theory Group, University of Winnipeg** -- Evan McDonough, Andrew Frey
 
 [back to top](#top)
 
