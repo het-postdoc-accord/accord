@@ -131,6 +131,13 @@ Institutions along with communicating representative
 79. **Technion particle theory group** -- Yael Shadmi
 80. **Theoretical Particle Physics group, Lund University** -- Leif Lönnblad
 81. **Particle Theory Group, University of Winnipeg** -- Evan McDonough, Andrew Frey
+82. **Illinois State University** -- Neil Christensen
+83. **University of Adelaide** -- Derek Leinweber
+84. **Geometry and Mathematical Physics group, University of Birmingham, UK** -- Cyril Closset
+85. **Particle Theory Group, Boston University** -- Martin Schmaltz
+86. **AMTP at the School of Mathematics, Trinity College Dublin** -- Samson L. Shatashvili
+87. **The Hamilton Mathematics Institute, Trinity College Dublin** -- Samson L. Shatashvili
+88. **Yale University** -- Ian Moult
 
 [back to top](#top)
 
