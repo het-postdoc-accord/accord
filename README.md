@@ -145,6 +145,13 @@ Institutions along with communicating representative
 93. **Simons Center for Geometry and Physics** -- Zohar Komargodski
 94. **C.N. Yang Institute for Theoretical Physics, Stony Brook University** -- George Sterman
 95. **Particle Phenomenology and Cosmology Group, Seoul National University** -- Hyung Do Kim
+96. **Theoretical and Mathematical Physics, ULBrussels** -- Riccardo Argurio
+97. **Institute for Theoretical Physics, Heidelberg University** -- Tilman Plehn
+98. **University of Auckland** -- Richard Easter
+99. **Hebrew University High Energy Group (TH + PH)** -- Yonit Hochberg and Michael Smolkin
+100. **University College Dublin** -- Christiana Pantelidou
+101. **Uppsala University, High Energy Physics Division (Enberg) and Theoretical Physics Division (Minahan)** -- Rikard Enberg, Joseph Minahan
+102. **Theory Group at the Physics Department of the University of Roma "Tor Vergata"** -- Massimo Bianchi
 
 [back to top](#top)
 
