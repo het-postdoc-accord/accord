@@ -154,6 +154,7 @@ Institutions along with communicating representative
 102. **Theory Group at the Physics Department of the University of Roma "Tor Vergata"** -- Massimo Bianchi
 103. **ICTP** -- Paolo Creminelli
 104. **Mathematical Physics Group, University of Edinburgh** -- Joan Simon
+105. **Caltech** -- Hirosi Ooguri
 
 [back to top](#top)
 
