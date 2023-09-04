@@ -152,6 +152,8 @@ Institutions along with communicating representative
 100. **University College Dublin** -- Christiana Pantelidou
 101. **Uppsala University, High Energy Physics Division (Enberg) and Theoretical Physics Division (Minahan)** -- Rikard Enberg, Joseph Minahan
 102. **Theory Group at the Physics Department of the University of Roma "Tor Vergata"** -- Massimo Bianchi
+103. **ICTP** -- Paolo Creminelli
+104. **Mathematical Physics Group, University of Edinburgh** -- Joan Simon
 
 [back to top](#top)
 
