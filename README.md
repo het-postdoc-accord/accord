@@ -155,6 +155,7 @@ Institutions along with communicating representative
 103. **ICTP** -- Paolo Creminelli
 104. **Mathematical Physics Group, University of Edinburgh** -- Joan Simon
 105. **Caltech** -- Hirosi Ooguri
+106. **Universidade Federal do ABC (UFABC) in Santo André** -- Chee Sheng Fong
 
 [back to top](#top)
 
