@@ -156,6 +156,8 @@ Institutions along with communicating representative
 104. **Mathematical Physics Group, University of Edinburgh** -- Joan Simon
 105. **Caltech** -- Hirosi Ooguri
 106. **Universidade Federal do ABC (UFABC) in Santo André** -- Chee Sheng Fong
+107. **TU Wien** --  Daniel Grumiller
+108. **Annecy-le-Vieux de Physique Théorique (LAPTh)** -- 
 
 [back to top](#top)
 
