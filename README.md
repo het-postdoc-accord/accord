@@ -157,7 +157,7 @@ Institutions along with communicating representative
 105. **Caltech** -- Hirosi Ooguri
 106. **Universidade Federal do ABC (UFABC) in Santo André** -- Chee Sheng Fong
 107. **TU Wien** --  Daniel Grumiller
-108. **Annecy-le-Vieux de Physique Théorique (LAPTh)** -- 
+108. **Annecy-le-Vieux de Physique Théorique (LAPTh)** -- Luc Frappat
 
 [back to top](#top)
 
