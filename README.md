@@ -160,6 +160,7 @@ Institutions along with communicating representative
 107. **Annecy-le-Vieux de Physique Théorique (LAPTh)** -- Luc Frappat
 108. **University of Arizona High Energy Theory Group** -- Shufang Su
 109. **High Energy Theory Group, BNL** -— Sally Dawson
+110. **Arizona State University High-Energy group** -- Tanmay Vachaspati
 
 [back to top](#top)
 
