@@ -158,6 +158,7 @@ Institutions along with communicating representative
 106. **Universidade Federal do ABC (UFABC) in Santo André** -- Chee Sheng Fong
 107. **TU Wien** --  Daniel Grumiller
 108. **Annecy-le-Vieux de Physique Théorique (LAPTh)** -- Luc Frappat
+109. **University of Arizona High Energy Theory Group** -- Shufang Su
 
 [back to top](#top)
 
