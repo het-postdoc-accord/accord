@@ -161,7 +161,7 @@ Institutions along with communicating representative
 108. **University of Arizona High Energy Theory Group** -- Shufang Su
 109. **High Energy Theory Group, BNL** -— Sally Dawson
 110. **Arizona State University High-Energy group** -- Tanmay Vachaspati
-111. **TRIUMF Particle Theory Group ** --  David Morrissey
+111. **TRIUMF Particle Theory Group** --  David Morrissey
 
 [back to top](#top)
 
