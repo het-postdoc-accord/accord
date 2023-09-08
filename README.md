@@ -164,6 +164,9 @@ Institutions along with communicating representative
 111. **TRIUMF Particle Theory Group** --  David Morrissey
 112. **Crete Center of Theoretical Physics, Heraklion, Greece** -- Vasilis Niarchos
 113. **High Energy Theory group of Università Roma Tre** -- Vittorio Lubicz
+114. **Universitat Autònoma de Barcelona and IFAE Theory Group** - Rafel Escribano
+115. **Ghent University** -- Thomas Mertens
+116. **TU Dortmund Particle Theory** -- Gudrun Hiller
 
 [back to top](#top)
 
