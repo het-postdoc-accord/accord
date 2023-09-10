@@ -278,5 +278,5 @@ Further questions? Please let us know at [het.postdoc.deadline [at] gmail [dot] 
 [back to top](#top)
 
 
-A very <span style='color: red;'>long</span> sentence.
+$\alpha$
 
