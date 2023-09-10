@@ -167,6 +167,10 @@ Institutions along with communicating representative
 114. **Universitat Autònoma de Barcelona and IFAE Theory Group** - Rafel Escribano
 115. **Ghent University** -- Thomas Mertens
 116. **TU Dortmund Particle Theory** -- Gudrun Hiller
+117. **Indiana University, theory group** -- Raymond Co
+118. **New High Energy Theory Center (NHETC) at Rutgers University** -- Scott Thomas
+119. **Laboratoire de Physique Théorique et Hautes Energies (LPTHE), Sorbonne Université/CNRS** -- Michela Petrini
+120. **Oklahoma State University (Babu, Brdar,Goncalves)** -- Kaladi Babu
 
 [back to top](#top)
 
