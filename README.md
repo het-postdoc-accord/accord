@@ -278,5 +278,5 @@ Further questions? Please let us know at [het.postdoc.deadline [at] gmail [dot] 
 [back to top](#top)
 
 
-$\color{red}{red}$
+$\color{red}{\mathrm{red}}$
 
