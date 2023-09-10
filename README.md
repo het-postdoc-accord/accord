@@ -28,7 +28,8 @@ following conditions are satisfied:
 * At least 65 of the signatories of the existing January 7th accord (∼70%) have
 signed on to this new accord. $\color{red}{\mathrm{45\ out\ of\ the\ required\ 65\ institutions\ signed.\ This\ condition\ has\ not\ yet\ been\ met.}}$
 * A total of at least 100 research groups have signed on to the new accord. This
-exceeds the number of signatories of the previous accord. $\color{green}{\mathrm{120\ out\ of\ the\ required\ 100\ institutions\ signed.\ This\ condition\ has\ been\ met.}}$
+exceeds the number of signatories of the previous accord. 
+$\color{green}{\mathrm{120\ out\ of\ the\ required\ 100\ institutions\ signed.\ This\ condition\ has\ been\ met.}}$
 * Moreover, for the accord to apply to the 2023-2024 hiring cycle, both criteria must
 be met on or before **September 30th 2023**. If the criteria are instead met between
 October 1th 2023 and June 30th 2024, this accord will go in effect for the 2024-2025 hiring
