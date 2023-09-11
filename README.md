@@ -26,7 +26,7 @@ is withdrawn explicitly.
 3. To ensure community unity, the new accord will only take effect once both of the
 following conditions are satisfied:
 * At least 65 of the signatories of the existing January 7th accord (∼70%) have
-signed on to this new accord. **To date, 45 out of the required 65 signatories from this group have signed the new accord.**
+signed on to this new accord. **To date, 46 out of the required 65 signatories from this group have signed the new accord.**
 * A total of at least 100 research groups have signed on to the new accord. This
 exceeds the number of signatories of the previous accord. 
 **To date, 120 research groups have signed.**
@@ -172,6 +172,7 @@ Institutions along with communicating representative
 118. **New High Energy Theory Center (NHETC) at Rutgers University** -- Scott Thomas
 119. **Laboratoire de Physique Théorique et Hautes Energies (LPTHE), Sorbonne Université/CNRS** -- Michela Petrini
 120. **Oklahoma State University (Babu, Brdar,Goncalves)** -- Kaladi Babu
+121. **High Energy Theory group at the University of Michigan** -- Finn Larsen
 
 [back to top](#top)
 
