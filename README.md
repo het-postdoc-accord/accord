@@ -26,10 +26,10 @@ is withdrawn explicitly.
 3. To ensure community unity, the new accord will only take effect once both of the
 following conditions are satisfied:
 * At least 65 of the signatories of the existing January 7th accord (∼70%) have
-signed on to this new accord. **To date, 46 out of the required 65 signatories from this group have signed the new accord.**
+signed on to this new accord. **To date, 49 out of the required 65 signatories from this group have signed the new accord.**
 * A total of at least 100 research groups have signed on to the new accord. This
 exceeds the number of signatories of the previous accord. 
-**To date, 120 research groups have signed.**
+**To date, 125 research groups have signed.**
 * Moreover, for the accord to apply to the 2023-2024 hiring cycle, both criteria must
 be met on or before **September 30th 2023**. If the criteria are instead met between
 October 1th 2023 and June 30th 2024, this accord will go in effect for the 2024-2025 hiring
@@ -173,6 +173,10 @@ Institutions along with communicating representative
 119. **Laboratoire de Physique Théorique et Hautes Energies (LPTHE), Sorbonne Université/CNRS** -- Michela Petrini
 120. **Oklahoma State University (Babu, Brdar,Goncalves)** -- Kaladi Babu
 121. **High Energy Theory group at the University of Michigan** -- Finn Larsen
+122. **Cosmology group at the Instituto de Física de Cantabria (IFCA)** -- José Luis Bernal
+123. **Institute of Theoretical Physics IFT CSIC-UAM** -- Jose L. F. Barbon
+124. **Humboldt Universität zu Berlin — Particles, Fields and the Universe Theory Group** -- Jan Plefka
+125. **HEP/Cosmo groups at Institute for Theoretical Physics at the Georg-August University in Goettingen** -- Laura Covi and Steffen Schumann
 
 [back to top](#top)
 
