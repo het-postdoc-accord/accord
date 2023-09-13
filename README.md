@@ -177,6 +177,8 @@ Institutions along with communicating representative
 123. **Institute of Theoretical Physics IFT CSIC-UAM** -- Jose L. F. Barbon
 124. **Humboldt Universität zu Berlin — Particles, Fields and the Universe Theory Group** -- Jan Plefka
 125. **HEP/Cosmo groups at Institute for Theoretical Physics at the Georg-August University in Goettingen** -- Laura Covi and Steffen Schumann
+126. **TP1, Theoretical Particle Physics, Siegen University** -- Alexander Lenz
+127. **Theoretical Elementary Particle Physics group at the Julius-Maximilians-Universität Würzburg** -- Ansgar Denner
 
 [back to top](#top)
 
