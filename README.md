@@ -26,10 +26,10 @@ is withdrawn explicitly.
 3. To ensure community unity, the new accord will only take effect once both of the
 following conditions are satisfied:
 * At least 65 of the signatories of the existing January 7th accord (∼70%) have
-signed on to this new accord. **To date, 50 out of the required 65 signatories from this group have signed the new accord.**
+signed on to this new accord. **To date, 56 out of the required 65 signatories from this group have signed the new accord.**
 * A total of at least 100 research groups have signed on to the new accord. This
 exceeds the number of signatories of the previous accord. 
-**To date, 127 research groups have signed.**
+**To date, 137 research groups have signed.**
 * Moreover, for the accord to apply to the 2023-2024 hiring cycle, both criteria must
 be met on or before **September 30th 2023**. If the criteria are instead met between
 October 1th 2023 and June 30th 2024, this accord will go in effect for the 2024-2025 hiring
@@ -179,6 +179,15 @@ Institutions along with communicating representative
 125. **HEP/Cosmo groups at Institute for Theoretical Physics at the Georg-August University in Goettingen** -- Laura Covi and Steffen Schumann
 126. **TP1, Theoretical Particle Physics, Siegen University** -- Alexander Lenz
 127. **Theoretical Elementary Particle Physics group at the Julius-Maximilians-Universität Würzburg** -- Ansgar Denner
+128. **Institute for Theoretical Particle Physics and Cosmology, RWTH Aachen University** -- Michael Krämer
+129. **Theory Group, Physics Department of the University of Turin** -- Roberto Tateo
+130. **High Energy Theory group at École Polytechnique Fédérale de Lausanne (EPFL)** -- Joao Penedones
+131. **Center for Neutrino Physics, Virginia Tech** -- Patrick Huber
+132. **High Energy Group, William and Mary** -- Christopher D. Carone
+133. **Theoretical High Energy Physics Group, Vrije Universiteit Brussel** -- Alexander Sevrin
+134. **IPM, Tehran (Sheikh-Jabbari group)** -- M.M. Sheikh-Jabbari
+135. **Particle Theory Group, UC Riverside** -- Hai-Bo Yu
+136. **HET Group, UMass Amherst** -- Michael Ramsey-Musolf
 
 [back to top](#top)
 
