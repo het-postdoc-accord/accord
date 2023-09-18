@@ -195,7 +195,7 @@ Institutions along with communicating representative
 141. **Niels Bohr Institute** -- N. Emil J. Bjerrum-Bohr
 142. **Gravitational, Astro-, and Particle Physics Amsterdam (GRAPPA), University of Amsterdam / Nikhef** -- Christoph Weniger
 143. **University of Bern, Institute for Theoretical Physics** -- Thomas Becher
-144. **Gravitation Group at the School for Mathematical Sciences, Queen Mary University of London ** -- Rodolfo Russo
+144. **Gravitation Group at the School for Mathematical Sciences, Queen Mary University of London** -- Rodolfo Russo
 145. **Particle Phenomenology Group, TU Dresden** -- Dominik Stoeckinger
 146. **High Energy Theory Group, University of Minnesota** -- Tony Gherghetta
 147. **Michigan State University** -- Huey-Wen Lin
