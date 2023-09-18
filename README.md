@@ -201,6 +201,12 @@ Institutions along with communicating representative
 147. **Michigan State University** -- Huey-Wen Lin
 148. **Tel Aviv University** -- Tomer Volansky
 149. **Institut des Hautes Études Scientifiques (IHES), Theoretical Physics** -- Slava Rychkov
+150. **University of Jyväskylä, QCD theory group** -- Tuomas Lappi
+151. **high energy group at Chalmers University of Technology** -- Riccardo Catena
+152. **Karlsruhe Institute of Technology (KIT),  Institute for Theoretical Particle Physics (TTP)** -- Kirill Melnikov
+153. **Zeuthen Particle Physics Theory group, DESY** -- Jeremy Green
+154. **HET group of University of Barcelona** -- M.Concepcion Gonzalez-Garcia
+155. **High Energy Theory group at the University of Florida** -- Rachel Houtz
 
 [back to top](#top)
 
