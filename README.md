@@ -26,10 +26,10 @@ is withdrawn explicitly.
 3. To ensure community unity, the new accord will only take effect once both of the
 following conditions are satisfied:
 * At least 65 of the signatories of the existing January 7th accord (∼70%) have
-signed on to this new accord. **To date, 58 out of the required 65 signatories from this group have signed the new accord.**
+signed on to this new accord. **To date, 61 out of the required 65 signatories from this group have signed the new accord.**
 * A total of at least 100 research groups have signed on to the new accord. This
 exceeds the number of signatories of the previous accord. 
-**To date, 140 research groups have signed.**
+**To date, 149 research groups have signed.**
 * Moreover, for the accord to apply to the 2023-2024 hiring cycle, both criteria must
 be met on or before **September 30th 2023**. If the criteria are instead met between
 October 1th 2023 and June 30th 2024, this accord will go in effect for the 2024-2025 hiring
@@ -192,6 +192,15 @@ Institutions along with communicating representative
 138. **Theoretical Particle Physics Group, Radboud University** -- Wim Beenakker
 139. **Particle Theory Group, University of Manchester** -- Jeff Forshaw
 140. **Theoretical Physics Group, Southern Methodist University** -- Pavel Nadolsky, Fredrick Olness, Robert Vega
+141. **Niels Bohr Institute** -- N. Emil J. Bjerrum-Bohr
+142. **Gravitational, Astro-, and Particle Physics Amsterdam (GRAPPA), University of Amsterdam / Nikhef** -- Christoph Weniger
+143. **University of Bern, Institute for Theoretical Physics** -- Thomas Becher
+144. **Gravitation Group at the School for Mathematical Sciences, Queen Mary University of London ** -- Rodolfo Russo
+145. **Particle Phenomenology Group, TU Dresden** -- Dominik Stoeckinger
+146. **High Energy Theory Group, University of Minnesota** -- Tony Gherghetta
+147. **Michigan State University** -- Huey-Wen Lin
+148. **Tel Aviv University** -- Tomer Volansky
+149. **Institut des Hautes Études Scientifiques (IHES), Theoretical Physics** -- Slava Rychkov
 
 [back to top](#top)
 
