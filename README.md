@@ -207,6 +207,8 @@ Institutions along with communicating representative
 153. **Zeuthen Particle Physics Theory group, DESY** -- Jeremy Green
 154. **HET group of University of Barcelona** -- M.Concepcion Gonzalez-Garcia
 155. **High Energy Theory group at the University of Florida** -- Rachel Houtz
+156. **Particle theory group at the University of Notre Dame** -- Adam Martin
+157. **Florence INFN group** -- Diego Redigolo
 
 [back to top](#top)
 
