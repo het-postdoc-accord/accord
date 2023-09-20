@@ -26,7 +26,7 @@ is withdrawn explicitly.
 3. To ensure community unity, the new accord will only take effect once both of the
 following conditions are satisfied:
 * At least 65 of the signatories of the existing January 7th accord (∼70%) have
-signed on to this new accord. **To date, 64 out of the required 65 signatories from this group have signed the new accord.**
+signed on to this new accord. **To date, 65 out of the required 65 signatories from this group have signed the new accord.**
 * A total of at least 100 research groups have signed on to the new accord. This
 exceeds the number of signatories of the previous accord. 
 **To date, 157 research groups have signed.**
@@ -210,6 +210,7 @@ Institutions along with communicating representative
 156. **Particle theory group at the University of Notre Dame** -- Adam Martin
 157. **Florence INFN group** -- Diego Redigolo
 158. **Laboratoire de Physique de l'Ecole Normale Supérieure, cosmology group and high-energy group** -- Vincent Vennin
+159. **University of British Columbia high-energy theory group** -- Mark Van Raamsdonk
 
 [back to top](#top)
 
