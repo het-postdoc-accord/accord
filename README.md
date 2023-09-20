@@ -209,7 +209,7 @@ Institutions along with communicating representative
 155. **High Energy Theory group at the University of Florida** -- Rachel Houtz
 156. **Particle theory group at the University of Notre Dame** -- Adam Martin
 157. **Florence INFN group** -- Diego Redigolo
-158. **Laboratoire de Physique de l'Ecole Normale Superieure, high-energy group and cosmology group** -- Vincent Vennin
+158. **Laboratoire de Physique de l'Ecole Normale Supérieure, cosmology group and high-energy group** -- Vincent Vennin
 
 [back to top](#top)
 
