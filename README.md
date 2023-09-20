@@ -211,6 +211,8 @@ Institutions along with communicating representative
 157. **Florence INFN group** -- Diego Redigolo
 158. **Laboratoire de Physique de l'Ecole Normale Supérieure, cosmology group and high-energy group** -- Vincent Vennin
 159. **University of British Columbia high-energy theory group** -- Mark Van Raamsdonk
+160. **Gravity, cosmology, HET group at University of North Carolina at Chapel Hill** -- Louise Dolan
+161. **Oxford Particle Theory Group** -- John Wheater
 
 [back to top](#top)
 
