@@ -26,7 +26,7 @@ is withdrawn explicitly.
 3. To ensure community unity, the new accord will only take effect once both of the
 following conditions are satisfied:
 * At least 65 of the signatories of the existing January 7th accord (∼70%) have
-signed on to this new accord. **To date, 62 out of the required 65 signatories from this group have signed the new accord.**
+signed on to this new accord. **To date, 64 out of the required 65 signatories from this group have signed the new accord.**
 * A total of at least 100 research groups have signed on to the new accord. This
 exceeds the number of signatories of the previous accord. 
 **To date, 157 research groups have signed.**
@@ -51,7 +51,7 @@ institutional fellowships.
 # Signatories: <a name="signatories"></a>
 Institutions along with communicating representative
 
-<sub><sup>*Last update: September 18, 2023*</sup></sub>
+<sub><sup>*Last update: September 20, 2023*</sup></sub>
 1. **Kavli Institute for Theoretical Physics (KITP)** --- Lars Bildsten
 2. **Laval University Theory Group** --- Jean-François Fortin
 3. **University of Maryland particle theory group** --- Raman Sundrum
@@ -209,6 +209,7 @@ Institutions along with communicating representative
 155. **High Energy Theory group at the University of Florida** -- Rachel Houtz
 156. **Particle theory group at the University of Notre Dame** -- Adam Martin
 157. **Florence INFN group** -- Diego Redigolo
+158. **Laboratoire de Physique de l'Ecole Normale Superieure, high-energy group and cosmology group** -- Vincent Vennin
 
 [back to top](#top)
 
