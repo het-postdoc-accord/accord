@@ -26,10 +26,10 @@ is withdrawn explicitly.
 3. To ensure community unity, the new accord will only take effect once both of the
 following conditions are satisfied:
 * At least 65 of the signatories of the existing January 7th accord (∼70%) have
-signed on to this new accord. **To date, 67 out of the required 65 signatories from this group have signed the new accord.**
+signed on to this new accord. **To date, 69 out of the required 65 signatories from this group have signed the new accord.**
 * A total of at least 100 research groups have signed on to the new accord. This
 exceeds the number of signatories of the previous accord. 
-**To date, 159 research groups have signed.**
+**To date, 165 research groups have signed.**
 * Moreover, for the accord to apply to the 2023-2024 hiring cycle, both criteria must
 be met on or before **September 30th 2023**. If the criteria are instead met between
 October 1th 2023 and June 30th 2024, this accord will go in effect for the 2024-2025 hiring
@@ -51,7 +51,7 @@ institutional fellowships.
 # Signatories: <a name="signatories"></a>
 Institutions along with communicating representative
 
-<sub><sup>*Last update: September 20, 2023*</sup></sub>
+<sub><sup>*Last update: September 21, 2023*</sup></sub>
 1. **Kavli Institute for Theoretical Physics (KITP)** --- Lars Bildsten
 2. **Laval University Theory Group** --- Jean-François Fortin
 3. **University of Maryland particle theory group** --- Raman Sundrum
@@ -213,6 +213,10 @@ Institutions along with communicating representative
 159. **University of British Columbia high-energy theory group** -- Mark Van Raamsdonk
 160. **Gravity, cosmology, HET group at University of North Carolina at Chapel Hill** -- Louise Dolan
 161. **Oxford Particle Theory Group** -- John Wheater
+162. **high-energy theory group at Columbia University (excluding the lattice QCD group)** -- Frederik Denef, Brian Greene, Lam Hui, Alberto Nicolis
+163. **Utrecht University, High energy/string theory groups** -- Thomas Grimm, Umut Gursoy, Stefan Vandoren
+164. **Theoretical Physics group, Department of Mathematics, King’s College London** -- Nadav Drukker
+165. **Theoretical Physics Group at Imperial College London** -- Daniel Waldram
 
 [back to top](#top)
 
