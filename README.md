@@ -217,6 +217,7 @@ Institutions along with communicating representative(s)
 163. **Utrecht University, High energy/string theory groups** -- Thomas Grimm, Umut Gursoy, Stefan Vandoren
 164. **Theoretical Physics group, Department of Mathematics, King’s College London** -- Nadav Drukker
 165. **Theoretical Physics Group at Imperial College London** -- Daniel Waldram
+166. **Colorado State University, HEPPA group** -- Josh Berger, Julia Gehrlein
 
 [back to top](#top)
 
