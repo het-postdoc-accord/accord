@@ -49,7 +49,7 @@ institutional fellowships.
 [back to top](#top)
 
 # Signatories: <a name="signatories"></a>
-Institutions along with communicating representative
+Institutions along with communicating representative(s)
 
 <sub><sup>*Last update: September 21, 2023*</sup></sub>
 1. **Kavli Institute for Theoretical Physics (KITP)** --- Lars Bildsten
