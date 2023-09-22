@@ -218,7 +218,7 @@ Institutions along with communicating representative(s)
 164. **Theoretical Physics group, Department of Mathematics, King’s College London** -- Nadav Drukker
 165. **Theoretical Physics Group at Imperial College London** -- Daniel Waldram
 166. **Colorado State University, HEPPA group** -- Julia Gehrlein
-167. **Institut de Physique Théorique, Université Paris-Saclay, cosmology, particle theory, mathematical physics and string theory groups** -- Stéphane Lavignac
+167. **Institut de Physique Théorique, Université Paris-Saclay, cosmology, particle theory, mathematical physics and string theory groups** -- Stéphane Lavignac, Mariana Graña
 168. **University of Southampton, Physics and Astronomy** -- Nick Evans
 169. **High Energy Theory Group, City College of the City University of New York** -- Sebastian Franco
 
