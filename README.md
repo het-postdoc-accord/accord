@@ -213,7 +213,7 @@ Institutions along with communicating representative(s)
 159. **University of British Columbia high-energy theory group** -- Mark Van Raamsdonk
 160. **Gravity, cosmology, HET group at University of North Carolina at Chapel Hill** -- Louise Dolan
 161. **Oxford Particle Theory Group** -- John Wheater
-162. **high-energy theory group at Columbia University (excluding the lattice QCD group)** -- Frederik Denef, Brian Greene, Lam Hui, Alberto Nicolis
+162. **High-energy theory group at Columbia University** -- Frederik Denef, Brian Greene, Lam Hui, Alberto Nicolis
 163. **Utrecht University, High energy/string theory groups** -- Thomas Grimm, Umut Gursoy, Stefan Vandoren
 164. **Theoretical Physics group, Department of Mathematics, King’s College London** -- Nadav Drukker
 165. **Theoretical Physics Group at Imperial College London** -- Daniel Waldram
