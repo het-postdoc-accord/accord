@@ -29,7 +29,7 @@ following conditions are satisfied:
 signed on to this new accord. **To date, 70 out of the required 65 signatories from this group have signed the new accord.**
 * A total of at least 100 research groups have signed on to the new accord. This
 exceeds the number of signatories of the previous accord. 
-**To date, 169 research groups have signed.**
+**To date, 170 research groups have signed.**
 * Moreover, for the accord to apply to the 2023-2024 hiring cycle, both criteria must
 be met on or before **September 30th 2023**. If the criteria are instead met between
 October 1th 2023 and June 30th 2024, this accord will go in effect for the 2024-2025 hiring
@@ -51,7 +51,7 @@ institutional fellowships.
 # Signatories: <a name="signatories"></a>
 Institutions along with communicating representative(s)
 
-<sub><sup>*Last update: September 22, 2023*</sup></sub>
+<sub><sup>*Last update: September 24, 2023*</sup></sub>
 1. **Kavli Institute for Theoretical Physics (KITP)** --- Lars Bildsten
 2. **Laval University Theory Group** --- Jean-François Fortin
 3. **University of Maryland particle theory group** --- Raman Sundrum
@@ -221,6 +221,7 @@ Institutions along with communicating representative(s)
 167. **Institut de Physique Théorique, Université Paris-Saclay, cosmology, particle theory, mathematical physics and string theory groups** -- Stéphane Lavignac, Mariana Graña
 168. **University of Southampton, Physics and Astronomy** -- Nick Evans
 169. **High Energy Theory Group, City College of the City University of New York** -- Sebastian Franco
+170. **Florida State University's HEP Theory Group** -- Takemichi Okui
 
 
 [back to top](#top)
