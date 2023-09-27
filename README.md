@@ -29,7 +29,7 @@ following conditions are satisfied:
 signed on to this new accord. **To date, 71 out of the required 65 signatories from this group have signed the new accord.**
 * A total of at least 100 research groups have signed on to the new accord. This
 exceeds the number of signatories of the previous accord. 
-**To date, 174 research groups have signed.**
+**To date, 175 research groups have signed.**
 * Moreover, for the accord to apply to the 2023-2024 hiring cycle, both criteria must
 be met on or before **September 30th 2023**. If the criteria are instead met between
 October 1th 2023 and June 30th 2024, this accord will go in effect for the 2024-2025 hiring
@@ -226,6 +226,7 @@ Institutions along with communicating representative(s)
 172. **Institute for Particle Physics Phenomenology at Durham University** -- Michael Spannowsky
 173. **PAN Theory Group (particles, astrophysics, and Nuclei) at U Connecticut** -- Thomas Blum
 174. **Max Planck Institute for Nuclear Physics (MPIK) - Heidelberg** -- Mandred Lindner
+175. **Particle Theory & Cosmology (PTC) group, IBS Center for Theoretical Physics of the Universe (IBS-CTPU)** -- Kiwoon Choi
 
 [back to top](#top)
 
