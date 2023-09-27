@@ -226,7 +226,7 @@ Institutions along with communicating representative(s)
 172. **Institute for Particle Physics Phenomenology at Durham University** -- Michael Spannowsky
 173. **PAN Theory Group (particles, astrophysics, and Nuclei) at U Connecticut** -- Thomas Blum
 174. **Max Planck Institute for Nuclear Physics (MPIK) - Heidelberg** -- Mandred Lindner
-175. **Particle Theory & Cosmology (PTC) group, IBS Center for Theoretical Physics of the Universe (IBS-CTPU)** -- Kiwoon Choi
+175. **Particle Theory & Cosmology group, IBS Center for Theoretical Physics of the Universe (IBS-CTPU), Korea** -- Kiwoon Choi
 
 [back to top](#top)
 
