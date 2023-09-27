@@ -1,6 +1,6 @@
 ***<p align="center">The High-Energy Theory Postdoc Deadline Accord, described below, is now in effect.</p>***
 
-As of September 30, 2023, over [176 groups](#signatories) have agreed to abide by the February 15th accord, including 81% of the groups that signed the January 7th accord.  Note this the number of signing institutions is approximately double the number that signed the original January 7th accord.
+As of September 30, 2023, over [176 groups](#signatories) have agreed to abide by the February 15th accord, including 81% of the groups that signed the January 7th accord.  
 
 For questions, corrections, or additions to this list please contact [het.postdoc.deadline [at] gmail [dot] com](mailto:het.postdoc.deadline@gmail.com).
 
