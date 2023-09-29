@@ -26,10 +26,10 @@ is withdrawn explicitly.
 3. To ensure community unity, the new accord will only take effect once both of the
 following conditions are satisfied:
 * At least 65 of the signatories of the existing January 7th accord (∼70%) have
-signed on to this new accord. **To date, 74 out of the required 65 signatories from this group have signed the new accord.**
+signed on to this new accord. **To date, 75 out of the required 65 signatories from this group have signed the new accord.**
 * A total of at least 100 research groups have signed on to the new accord. This
 exceeds the number of signatories of the previous accord. 
-**To date, 178 research groups have signed.**
+**To date, 179 research groups have signed.**
 * Moreover, for the accord to apply to the 2023-2024 hiring cycle, both criteria must
 be met on or before **September 30th 2023**. If the criteria are instead met between
 October 1th 2023 and June 30th 2024, this accord will go in effect for the 2024-2025 hiring
@@ -230,6 +230,7 @@ Institutions along with communicating representative(s)
 176. **Brown University (Spradlin and Volovich group)** -- Anastasia Volovich
 177. **Centre for Theoretical Physics, Department of Physics and Astronomy, Queen Mary University of London** -- Andreas Brandhuber
 178. **CP3 at Université catholique de Louvain (UCL)** -- Celine Degrande
+179. **String Theory group, Hamburg University** - Timo Weigand
 
 [back to top](#top)
 
