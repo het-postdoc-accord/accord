@@ -1,3 +1,6 @@
+# The High-Energy Theory Postdoc Deadline Accord, described below, is now in effect, starting with the coming hiring season with a deadline of February 15th 2024.
+As of September 30, 2023, over [180 groups](#signatories) have agreed to abide by the February 15th accord, including 85% of the groups that signed the [January 7th accord](http://insti.physics.sunysb.edu/itp/postdoc-agreement.html). For questions, corrections, or additions to this list please contact [het.postdoc.deadline [at] gmail [dot] com](mailto:het.postdoc.deadline@gmail.com).
+
 # Contents <a name="top"></a>
 1. [Accord](#accord)
 2. [Signatories](#signatories)
@@ -26,10 +29,9 @@ is withdrawn explicitly.
 3. To ensure community unity, the new accord will only take effect once both of the
 following conditions are satisfied:
 * At least 65 of the signatories of the existing January 7th accord (∼70%) have
-signed on to this new accord. **To date, 75 out of the required 65 signatories from this group have signed the new accord.**
+signed on to this new accord. 
 * A total of at least 100 research groups have signed on to the new accord. This
 exceeds the number of signatories of the previous accord. 
-**To date, 181 research groups have signed.**
 * Moreover, for the accord to apply to the 2023-2024 hiring cycle, both criteria must
 be met on or before **September 30th 2023**. If the criteria are instead met between
 October 1th 2023 and June 30th 2024, this accord will go in effect for the 2024-2025 hiring
