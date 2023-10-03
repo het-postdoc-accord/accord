@@ -235,6 +235,7 @@ Institutions along with communicating representative(s)
 179. **String Theory group, Hamburg University** - Timo Weigand
 180. **Particle Astro/Cosmo/Pheno group at Brown U.** - Savvas Koushiappas
 181. **Particle Phenomenology Group, Hamburg University** - Gudrid Moortgat-Pick
+182. **University of Basel** -- Admir Greljo
 
 [back to top](#top)
 
