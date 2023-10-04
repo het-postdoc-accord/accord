@@ -1,4 +1,4 @@
-# The High-Energy Theory Postdoc Deadline Accord, described below, is now in effect, starting with the coming hiring season with a deadline of February 15th 2024.
+***The High-Energy Theory Postdoc Deadline Accord, described below, is now in effect, starting with the coming hiring season with a deadline of February 15th 2024.***
 As of September 30, 2023, over [181 groups](#signatories) have agreed to abide by the February 15th accord, including 85% of the groups that signed the [January 7th accord](http://insti.physics.sunysb.edu/itp/postdoc-agreement.html). For questions, corrections, or additions to this list please contact [het.postdoc.deadline [at] gmail [dot] com](mailto:het.postdoc.deadline@gmail.com).
 
 # Contents <a name="top"></a>
@@ -236,6 +236,7 @@ Institutions along with communicating representative(s)
 180. **Particle Astro/Cosmo/Pheno group at Brown U.** - Savvas Koushiappas
 181. **Particle Phenomenology Group, Hamburg University** - Gudrid Moortgat-Pick
 182. **University of Basel** -- Admir Greljo
+183. **University of Minnesota Duluth High Energy Theory/Cosmology Group** - Claire Zukowski
 
 [back to top](#top)
 
