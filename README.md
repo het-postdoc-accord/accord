@@ -236,7 +236,8 @@ Institutions along with communicating representative(s)
 180. **Particle Astro/Cosmo/Pheno group at Brown U.** - Savvas Koushiappas
 181. **Particle Phenomenology Group, Hamburg University** - Gudrid Moortgat-Pick
 182. **University of Basel** -- Admir Greljo
-183. **University of Minnesota Duluth High Energy Theory/Cosmology Group** - Claire Zukowski
+183. **University of Minnesota Duluth High Energy Theory/Cosmology Group** -- Claire Zukowski
+184. **University of Edinburgh PPT group** -- Richard Ball
 
 [back to top](#top)
 
