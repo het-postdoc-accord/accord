@@ -238,6 +238,8 @@ Institutions along with communicating representative(s)
 182. **University of Basel** -- Admir Greljo
 183. **University of Minnesota Duluth High Energy Theory/Cosmology Group** -- Claire Zukowski
 184. **University of Edinburgh PPT group** -- Richard Ball
+185. **Kavli Institute for Particle Astrophysics and Cosmology** -- Risa Wechsler
+186. **Case Western Reserve University, Particle Astro Theory Group** -- Kurt Hinterbichler
 
 [back to top](#top)
 
