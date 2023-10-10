@@ -239,6 +239,7 @@ Institutions along with communicating representative(s)
 183. **University of Edinburgh PPT group** -- Richard Ball
 184. **Kavli Institute for Particle Astrophysics and Cosmology** -- Risa Wechsler
 185. **Case Western Reserve University, Particle Astro Theory Group** -- Kurt Hinterbichler
+186. **University of Oklahoma** -- Kuver Sinha
 
 [back to top](#top)
 
