@@ -241,7 +241,7 @@ Institutions along with communicating representative(s)
 185. **Case Western Reserve University, Particle Astro Theory Group** -- Kurt Hinterbichler
 186. **University of Oklahoma** -- Kuver Sinha
 187. **University of Glasgow** -- Christoph Englert
-
+188. **University of Helsinki and Helsinki Institute of Physics** --	Kari Rummukainen
 [back to top](#top)
 
 # FAQ <a name="faq"></a>
