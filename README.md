@@ -245,6 +245,7 @@ Institutions along with communicating representative(s)
 189. **University of Tehran** -- Hajar Ebrahim
 190. **University of South Carolina** -- Alexey Petrov
 191. **IGFAE - Universidade de Santiago de Compostela - Theory Group** -- Carlos Salgado
+192. **University of Virginia High-Energy Physics Theory group** -- Julian Heeck
      
 [back to top](#top)
 
