@@ -246,6 +246,8 @@ Institutions along with communicating representative(s)
 190. **University of South Carolina** -- Alexey Petrov
 191. **IGFAE - Universidade de Santiago de Compostela - Theory Group** -- Carlos Salgado
 192. **University of Virginia High-Energy Physics Theory group** -- Julian Heeck
+193. **Mandelstam Institute for Theoretical Physics, University of the Witwatersrand, Johannesburg, South Africa** -- João Rodrigues
+194. **Particle Theory Group, Department of Physics, University of Zurich** -- Massimiliano Grazzini
      
 [back to top](#top)
 
