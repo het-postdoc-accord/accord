@@ -249,6 +249,7 @@ Institutions along with communicating representative(s)
 193. **Mandelstam Institute for Theoretical Physics, University of the Witwatersrand, Johannesburg, South Africa** -- João Rodrigues
 194. **Particle Theory Group, Department of Physics, University of Zurich** -- Massimiliano Grazzini
 195. **Machine Learning for Particle Physics group, HEPHY, Vienna** -- Claudius Krause
+196. **Institute of Nuclear Physics Polish Academy of Science (Theoretical Particle Physics)** -- Richard Ruiz
      
 [back to top](#top)
 
