@@ -1,4 +1,4 @@
-***The High-Energy Theory Postdoc Deadline Accord, described below, is now in effect, starting with the coming hiring season with a deadline of February 15th 2024.***
+``***The High-Energy Theory Postdoc Deadline Accord, described below, is now in effect, starting with the coming hiring season with a deadline of February 15th 2024.***
 As of September 30, 2023, over [181 groups](#signatories) have agreed to abide by the February 15th accord, including 85% of the groups that signed the [January 7th accord](http://insti.physics.sunysb.edu/itp/postdoc-agreement.html). For questions, corrections, or additions to this list please contact [het.postdoc.deadline [at] gmail [dot] com](mailto:het.postdoc.deadline@gmail.com).
 
 # Contents <a name="top"></a>
@@ -110,7 +110,6 @@ Institutions along with communicating representative(s)
 54. **University of Southampton, String theory and Holography group** --	Kostas Skenderis
 55. **Institut fuer Theoretische Physik, Leibniz Universitaet Hannover** --	Olaf Lechtenfeld
 56. **Swansea University Particle Physics and Cosmology Theory group** --	Gert Aarts
-57. **ETH Zurich (Gaberdiel and Senatore groups)** --	Leonardo Senatore, Matthias Gaberdiel
 58. **Technische Universität München, Particle and Astroparticle Theory** --	Martin Beneke
 59. **Karlsruhe Institute of Technology (KIT), Institute for Theoretical Physics** -- Margarete Mühlleitner
 60. **Rice University (Amin and Long Groups)** -- Mustafa A. Amin, Andrew J. Long
