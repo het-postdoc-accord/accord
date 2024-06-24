@@ -141,7 +141,6 @@ Institutions along with communicating representative(s)
 86. **The Hamilton Mathematics Institute, Trinity College Dublin** -- Samson L. Shatashvili
 87. **Yale University** -- Ian Moult
 88. **Leiden University** -- Koenraad Schalm
-<!--- 89. **String Theory Group, Institute for Theoretical Physics, University of Amsterdam** -- Jan de Boer --->
 90. **University of Padua High Energy Theory Group** -- Fabio Zwirner
 91. **Institute of Physics, University of Sao Paulo, Brazil** -- Gustavo Burdman
 92. **Simons Center for Geometry and Physics** -- Zohar Komargodski
