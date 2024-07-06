@@ -187,14 +187,12 @@ Institutions along with communicating representative(s)
 133. **IPM, Tehran (Sheikh-Jabbari group)** -- M.M. Sheikh-Jabbari
 134. **Particle Theory Group, UC Riverside** -- Hai-Bo Yu
 135. **HET Group, UMass Amherst** -- Michael Ramsey-Musolf
-136. **Particle Physics Theory Group, Yukawa Institute for Theoretical Physics, Kyoto University** -- Sinya Aoki
 137. **Theoretical Particle Physics Group, Radboud University** -- Wim Beenakker
 138. **Particle Theory Group, University of Manchester** -- Jeff Forshaw
 139. **Theoretical Physics Group, Southern Methodist University** -- Pavel Nadolsky, Fredrick Olness, Robert Vega
 140. **Niels Bohr Institute** -- N. Emil J. Bjerrum-Bohr
 141. **Gravitational, Astro-, and Particle Physics Amsterdam (GRAPPA), University of Amsterdam / Nikhef** -- Christoph Weniger
 142. **University of Bern, Institute for Theoretical Physics** -- Thomas Becher
-143. **Gravitation Group at the School for Mathematical Sciences, Queen Mary University of London** -- Rodolfo Russo
 144. **Particle Phenomenology Group, TU Dresden** -- Dominik Stoeckinger
 145. **High Energy Theory Group, University of Minnesota** -- Tony Gherghetta
 146. **Michigan State University** -- Huey-Wen Lin
