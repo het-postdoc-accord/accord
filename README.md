@@ -53,7 +53,9 @@ institutional fellowships.
 # Signatories: <a name="signatories"></a>
 Institutions along with communicating representative(s)
 
-<sub><sup>*Last update: November 5, 2023*</sup></sub>
+* Disclaimer: The numbering scheme is not being updated when an institution withdraws from the list for consistency.
+  
+<sub><sup>*Last update: July 6, 2024*</sup></sub>
 1. **Kavli Institute for Theoretical Physics (KITP)** --- Lars Bildsten
 2. **Laval University Theory Group** --- Jean-François Fortin
 3. **University of Maryland particle theory group** --- Raman Sundrum
@@ -137,8 +139,6 @@ Institutions along with communicating representative(s)
 82. **University of Adelaide** -- Derek Leinweber
 83. **Geometry and Mathematical Physics group, University of Birmingham, UK** -- Cyril Closset
 84. **Particle Theory Group, Boston University** -- Martin Schmaltz
-85. **AMTP at the School of Mathematics, Trinity College Dublin** -- Samson L. Shatashvili
-86. **The Hamilton Mathematics Institute, Trinity College Dublin** -- Samson L. Shatashvili
 87. **Yale University** -- Ian Moult
 88. **Leiden University** -- Koenraad Schalm
 90. **University of Padua High Energy Theory Group** -- Fabio Zwirner
