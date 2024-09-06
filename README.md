@@ -160,7 +160,6 @@ Institutions along with communicating representative(s)
 106. **Annecy-le-Vieux de Physique Théorique (LAPTh)** -- Luc Frappat
 107. **University of Arizona High Energy Theory Group** -- Shufang Su
 108. **High Energy Theory Group, BNL** -— Sally Dawson
-109. **Arizona State University High-Energy group** -- Tanmay Vachaspati
 110. **TRIUMF Particle Theory Group** --  David Morrissey
 111. **Crete Center of Theoretical Physics, Heraklion, Greece** -- Vasilis Niarchos
 112. **High Energy Theory group of Università Roma Tre** -- Vittorio Lubicz
