@@ -83,7 +83,6 @@ Institutions along with communicating representative(s)
 26. **Nordita, Stockholm Theoretical High Energy Physics Group** --- Niels Obers
 27. **University of New South Wales** --- Michael Schmidt
 28. **University of Illinois Urbana-Champaign High Energy Theory Group** --- Aida X. El-Khadra
-29. **Institute for Theoretical Physics at KU Leuven** --- Thomas Hertog
 30. **CPHT Ecole Polytechnique** --- Balt van Rees
 31. **University of Chicago Particle Theory Group** --- Jeffrey Harvey
 32. **Carleton University Theory Group** --- Thomas Gregoire
@@ -108,7 +107,6 @@ Institutions along with communicating representative(s)
 51. **University of Colorado High Energy Theory Group** --	Oliver DeWolfe
 52. **Ohio State University, High Energy Theory group** --	Eric Braaten
 53. **University of Oxford, Mathematical Physics Group** -- Luis Fernando Alday
-54. **University of Southampton, String theory and Holography group** --	Kostas Skenderis
 55. **Institut fuer Theoretische Physik, Leibniz Universitaet Hannover** --	Olaf Lechtenfeld
 56. **Swansea University Particle Physics and Cosmology Theory group** --	Gert Aarts
 58. **Technische Universität München, Particle and Astroparticle Theory** --	Martin Beneke
@@ -181,7 +179,6 @@ Institutions along with communicating representative(s)
 129. **High Energy Theory group at École Polytechnique Fédérale de Lausanne (EPFL)** -- Joao Penedones
 130. **Center for Neutrino Physics, Virginia Tech** -- Patrick Huber
 131. **High Energy Group, William and Mary** -- Christopher D. Carone
-132. **Theoretical High Energy Physics Group, Vrije Universiteit Brussel** -- Alexander Sevrin
 133. **IPM, Tehran (Sheikh-Jabbari group)** -- M.M. Sheikh-Jabbari
 134. **Particle Theory Group, UC Riverside** -- Hai-Bo Yu
 135. **HET Group, UMass Amherst** -- Michael Ramsey-Musolf
