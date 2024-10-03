@@ -67,7 +67,6 @@ Institutions along with communicating representative(s)
 9. **Fermilab Theory Division** --- Marcela Carena
 10. **SLAC Particle Theory Group** --- Tom Rizzo
 11. **University of Melbourne, Theoretical Particle Physics Group** --- Nicole Bell
-12. **The Weizmann Institute** --- Ofer Aharony
 13. **Jozef Stefan Institute** --- Jernej Fesel-Kamenik
 14. **University of Ljubljana** --- Jernej Fesel-Kamenik
 15. **Johns Hopkins Theory Group** --- Surjeet Rajendran
@@ -245,6 +244,7 @@ Institutions along with communicating representative(s)
 194. **Particle Theory Group, Department of Physics, University of Zurich** -- Massimiliano Grazzini
 195. **Machine Learning for Particle Physics group, HEPHY, Vienna** -- Claudius Krause
 196. **Institute of Nuclear Physics Polish Academy of Science (Theoretical Particle Physics)** -- Richard Ruiz
+197. **Univeristy of Iowa** -- Matheus Hostert
      
 [back to top](#top)
 
