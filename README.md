@@ -192,7 +192,6 @@ Institutions along with communicating representative(s)
 145. **High Energy Theory Group, University of Minnesota** -- Tony Gherghetta
 146. **Michigan State University** -- Huey-Wen Lin
 147. **Tel Aviv University** -- Tomer Volansky
-148. **Institut des Hautes Études Scientifiques (IHES), Theoretical Physics** -- Slava Rychkov
 149. **University of Jyväskylä, QCD theory group** -- Tuomas Lappi
 150. **high energy group at Chalmers University of Technology** -- Riccardo Catena
 151. **Karlsruhe Institute of Technology (KIT),  Institute for Theoretical Particle Physics (TTP)** -- Kirill Melnikov
