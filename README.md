@@ -84,7 +84,6 @@ Institutions along with communicating representative(s)
 27. **University of New South Wales** --- Michael Schmidt
 28. **University of Illinois Urbana-Champaign High Energy Theory Group** --- Aida X. El-Khadra
 30. **CPHT Ecole Polytechnique** --- Balt van Rees
-31. **University of Chicago Particle Theory Group** --- Jeffrey Harvey
 32. **Carleton University Theory Group** --- Thomas Gregoire
 33. **University of Wisconsin, Madison** -- Lisa Everett
 34. **Durham Maths CPT** -- Simon Ross
