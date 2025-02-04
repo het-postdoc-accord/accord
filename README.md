@@ -218,7 +218,6 @@ Institutions along with communicating representative(s)
 173. **Max Planck Institute for Nuclear Physics (MPIK) - Heidelberg** -- Mandred Lindner
 174. **Particle Theory & Cosmology group, IBS Center for Theoretical Physics of the Universe (IBS-CTPU), Korea** -- Kiwoon Choi
 175. **Brown University (Spradlin and Volovich group)** -- Anastasia Volovich
-176. **Centre for Theoretical Physics, Department of Physics and Astronomy, Queen Mary University of London** -- Andreas Brandhuber
 177. **CP3 at Université catholique de Louvain (UCL)** -- Celine Degrande
 178. **String Theory group, Hamburg University** - Timo Weigand
 179. **Particle Astro/Cosmo/Pheno group at Brown U.** - Savvas Koushiappas
