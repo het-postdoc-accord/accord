@@ -1,5 +1,5 @@
 # UPDATE
-Following a process initiated by the Executive Committee of the Division of Particles and Fields (DPF) of the American Physical Society (APS) there has been an updated [accord](https://www.classe.cornell.edu/research/theory/january-31-high-energy-theory-postdoc-accord).  This new accord supersedes the accord described below. 
+Following a process initiated by the Executive Committee of the Division of Particles and Fields (DPF) of the American Physical Society (APS) there has been an updated [accord](https://www.classe.cornell.edu/research/theory/january-31-high-energy-theory-postdoc-accord).  This new accord (whose deadline is at the end of January) supersedes the accord described below. 
 
 ``***The High-Energy Theory Postdoc Deadline Accord, described below, is now in effect, starting with the coming hiring season with a deadline of February 15th 2024.***
 As of September 30, 2023, over [181 groups](#signatories) have agreed to abide by the February 15th accord, including 85% of the groups that signed the [January 7th accord](http://insti.physics.sunysb.edu/itp/postdoc-agreement.html). For questions, corrections, or additions to this list please contact [het.postdoc.deadline [at] gmail [dot] com](mailto:het.postdoc.deadline@gmail.com).
